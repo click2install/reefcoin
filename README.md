@@ -1,6 +1,6 @@
 # Reef Coin
 
-Shell script to install a [Reef Coin Masternode](https://bitcointalk.org/index.php?topic=4437910) on a Linux server running Ubuntu 16.04.
+Shell script to install a `Reef Coin Masternode` on a Linux server running Ubuntu 16.04.
 
 
 ## Installation
